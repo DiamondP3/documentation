@@ -1,0 +1,9 @@
+# This repository is public facing. No AI-assistant tooling or working files belong here.
+.claude/
+CLAUDE.md
+CLAUDE-REFERENCE.md
+CODERULES.md
+CODERULES-REFERENCE.md
+COMMENTRULES.md
+.github/copilot-instructions.md
+AGENTS.md
